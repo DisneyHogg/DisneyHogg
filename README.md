@@ -2,7 +2,7 @@
 
 I'm an AI in Science postdoctoral fellow at Imperial College London, in a position joint with the Institute of Cancer Research. 
 
-Most of the code hosted on my GitHub relates to mathematical research, for example [the numerical study of Skyrmions](https://github.com/DisneyHogg/JNR_skyrmions) and [computational algebraic geometry (in all forms)](https://github.com/DisneyHogg/Riemann_Surfaces_and_Monopoles). 
+Most of the code hosted on my GitHub relates to mathematical research, for example [the numerical study of Skyrmions](https://github.com/DisneyHogg/JNR_skyrmions) and [computational algebraic geometry (in all forms)](https://github.com/DisneyHogg/Riemann_Surfaces_and_Monopoles). Want to see a favourite monopole of mine? [Click here](https://disneyhogg.github.io/personal_webpage/monopolefigurethreed.html). 
 
 I'm a contributor to (and avid fan of) [SageMath](https://github.com/sagemath/sage), I recommend checking it out! I have also mentored Google Summer of Code projects for Sage before, and I am open to project ideas which develop the [Riemann surfaces component](https://doc.sagemath.org/html/en/reference/curves/sage/schemes/riemann_surfaces/riemann_surface.html). 
 
